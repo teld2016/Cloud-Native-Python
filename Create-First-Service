@@ -1,0 +1,8 @@
+1. Use SQLITE3 create a new table.
+   -- execute command as followong:
+   sqlite
+   
+   link reference:
+   https://www.cnblogs.com/Toney-01-22/p/9911672.html
+  
+2. 
